@@ -206,6 +206,7 @@ For information about the governance of the Node.js project, see
 
 ### TSC emeriti
 
+* [paulofreitasnt](https://github.com/paulofreitasnt) - 
 * [addaleax](https://github.com/addaleax) -
 **Anna Henningsen** &lt;anna@addaleax.net&gt; (she/her)
 * [bnoordhuis](https://github.com/bnoordhuis) -
